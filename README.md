@@ -11,7 +11,7 @@ Integrantes:Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi embarcam em uma miss�
 | NUMERO | ATRIBUIÇÃO | PESSOA | DATA.INICIAL | DATA.FINAL | VERIFICAÇÃO | GIT-PUSH | VG |
 | :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: |
 | **1** | Criação de uma tabela de planejamento. | Giuseppe | 26/03/2026 | 27/03/2026 | ✅ **OK** | 27/03/2026 | ✅ OK |
-| **2** | Criação da documentação para os prototipos de Tcc. | Gabriel | 30/03/2026 | 30/03/2026 | ✅ **OK** | 30/03/2026 | ✅ OK |
+| **2** | Criação da documentação para os prototipos de Tcc. | Davi | 27/03/2026 | 30/03/2026 | ✅ **OK** | 30/03/2026 | ✅ OK |
 | **3** | - | - | - | - | - | - | - |
 | **4** | - | - | - | - | - | - | - |
 | **5** | - | - | - | - | - | - | - |
