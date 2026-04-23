@@ -1,6 +1,11 @@
 # Planejamentos_Tcc
 Integrantes:Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi embarcam em uma missão mega híper super difícil em busca do melhor planejamento possível para o super TCC!
 
+<details>
+<summary>IDEIA PRINCIPAL DO TCC</summary>
+
+A ideia é criar uma plataforma digital que conecte estabelecimentos com excedente de alimentos (como restaurantes e padarias) a ONGs e instituições que atendem pessoas em situação de vulnerabilidade, permitindo a redistribuição rápida desses alimentos que seriam desperdiçados.
+
 
 <details>
   <summary>DIARIO DE BORDO</summary>
@@ -33,6 +38,7 @@ Integrantes:Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi embarcam em uma miss�
 
 
 </details>
+</details> 
 
 <details>
   <summary>Clique aqui para ver a Aba 2</summary>
