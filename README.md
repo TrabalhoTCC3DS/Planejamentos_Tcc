@@ -4,7 +4,12 @@ Integrantes:Pedro, Enzo,  Correia, Felipe, Giuseppe e Davi embarcam em uma miss�
 <details>
 <summary>IDEIA PRINCIPAL DO TCC</summary>
 
+<br>
+
 A ideia é criar uma plataforma digital que conecte estabelecimentos com excedente de alimentos (como restaurantes e padarias) a ONGs e instituições que atendem pessoas em situação de vulnerabilidade, permitindo a redistribuição rápida desses alimentos que seriam desperdiçados.
+
+
+<br>
 
 
 <details>
@@ -39,6 +44,9 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 
 </details>
 </details> 
+<br>
+
+
 
 <details>
   <summary>Clique aqui para ver a Aba 2</summary>
