@@ -67,10 +67,7 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
   <summary> EXPECTATIVAS SEMANAIS </summary>
 
 
-# Reuniões Semanais
-
-# Changelog do Projeto
-
+# Resumo das Reuniões semanais
 Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
 
 ## [11-06-2026] - Semana 2 / Mês Junho(6) (26)
