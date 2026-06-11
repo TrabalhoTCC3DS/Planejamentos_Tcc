@@ -10,7 +10,8 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 
 
 <br>
-
+</details> 
+<br>
 
 <details>
   <summary>DIARIO DE BORDO</summary>
@@ -43,9 +44,8 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 
 
 </details>
-</details> 
-<br>
 
+<br>
 
 
 <details>
