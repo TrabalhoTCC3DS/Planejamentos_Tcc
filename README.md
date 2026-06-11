@@ -22,7 +22,7 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 | # | 📌 Atividade | 👤 Responsável | 📅 Início | 📅 Fim | 📊 Status | 🚀 Git Push | ✔️ Validação |
 |:-:|-------------|----------------|:---------:|:------:|-----------|:-----------:|:------------:|
 | **1** | Criação da tabela de planejamento | Giuseppe | 26/03/2026 | 27/03/2026 | ✅ Concluido | 27/03/2026 | ✅ OK |
-| **2** | Documentação dos protótipos do TCC | Davi | 27/03/2026 | 8/06/2026 | ✅ Fora do prazo | 30/03/2026 | ✅ OK |
+| **2** | Documentação dos protótipos do TCC | Davi | 27/03/2026 | 9/04/2026 | ✅ Concluido | 30/03/2026 | ✅ OK |
 | **3** | Organização da equipe e divisão de tarefas:<br>• Pedro & Davi → Documentação<br>• Enzo & Correia → Programação<br>• Felipe → Banco de Dados<br>• Giuseppe → Intermediação | Geral | 16/04/2026 | — | ✅ Concluido | 16/04/2026 | ✅ OK |
 | **4** | Coleta de dados sobre restaurantes + documentação | Pedro e Davi | 16/04/2026 | 21/04/2026 | ❌ fora do prazo | 🟡 Em andamento | ✅ OK |
 | **5** | — | — | — | — | ⏳ Planejado | — | — |
@@ -49,6 +49,16 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 
 
 <details>
-  <summary>Clique aqui para ver a Aba 2</summary>
-  Conteúdo da segunda seção.
+  <summary> Reunioes semanais </summary>
+
+
+# Reuniões Semanais
+
+| Data | Dia da Semana | Horário | Participantes | Tópicos | Responsável | Status | Observações |
+|------|--------------|----------|--------------|----------|-------------|--------|-------------|
+| A agendar | Agendar | 21:00 | Equipe | Estipular | Giuseppe | A agendadar | - |
+
 </details>
+
+
+
