@@ -60,5 +60,37 @@ A ideia é criar uma plataforma digital que conecte estabelecimentos com exceden
 
 </details>
 
+<br>
+
+
+<details>
+  <summary> EXPECTATIVAS SEMANAIS </summary>
+
+
+# Reuniões Semanais
+
+# Changelog do Projeto
+
+Todas as alterações notáveis neste projeto serão documentadas neste arquivo.
+
+## [11-06-2026] - Semana 2 / Mês Junho(6) (26)
+### 🧹 Manutenção e Atualizações
+* Alinhamento de melhoria no planejamento de atividades e os devidos prazos. 
+* Ajustado as informações do git hub para melhor visualização das informações.
+
+
+
+
+-------------------------------------------
+LEGENDAS 
+### 🧹 Manutenção e Atualizações
+### 🐛 Correções de Bugs (Fixes)
+### 🛠️ Melhorias (Improvements)
+### 🚀 Novidades (Features)
+-------------------------------------------
+</details>
+
+
+
 
 
